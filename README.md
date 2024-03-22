@@ -16,7 +16,11 @@ A Unity 2D Quiz Game
 
 
 
-Uploading Βίντεο χωρίς τίτλο - Δημιουργήθηκε με το Clipchamp.mp4…
+
+
+https://github.com/StavroulaKoutsikou/Quiz-Master-Astrology-Edition/assets/72344015/f6098f2a-9578-4ed2-9a33-46d8fd37b5d9
+
+
 
 
 
