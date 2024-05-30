@@ -1,9 +1,9 @@
-# Quiz-Master-Astrology-Edition
+# Quiz-Space-Edition
 A Unity 2D Quiz Game
 
 
 
-# Το "Quiz-Master-Astrology-Edition" ειναι μια απλή δισδιάστατη μοντελοποίηση παιχνιδιού σε Unity 2D. 
+# Το "Quiz-Space-Edition" ειναι μια απλή δισδιάστατη μοντελοποίηση παιχνιδιού σε Unity 2D. 
 
 Ελάτε να παίξετε αυτό το διασκεαδιστικό παιχνίδι με βάση το Διάστημα και να αναθεωρήσετε τις γνώσεις σας! 
 #
